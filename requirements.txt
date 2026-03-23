@@ -4,7 +4,7 @@ Pillow>=8.0.0
 torch==2.9.0
 torchaudio==2.9.0
 transformers==4.29.2
-sentencepiece==0.1.99
+sentencepiece==0.2.1
 pydub==0.25.1
 audiocraft==1.2.0
 av==10.0.0 --only-binary=:all:
