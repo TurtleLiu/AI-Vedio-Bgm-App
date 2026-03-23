@@ -6,5 +6,5 @@ torchaudio==2.9.0
 transformers==4.29.2
 sentencepiece==0.2.1
 pydub==0.25.1
-audiocraft>=1.0.0
+git+https://github.com/facebookresearch/audiocraft.git
 av==10.0.0 --only-binary=:all:
