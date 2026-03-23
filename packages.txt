@@ -7,3 +7,9 @@ libavutil-dev
 libavfilter-dev
 libswscale-dev
 libswresample-dev
+build-essential
+gcc
+g++
+make
+cmake
+python3-dev
